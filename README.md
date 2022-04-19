@@ -170,4 +170,4 @@ subvert locally available APIs!**
 
 ### Operating a private network
 
-See: [GendChain_Private_Network](https://github.com/Proof-of-Maturity-Trustworthiness/isychain/blob/main/GendChain_Private_Network.pptx)
+See: [GendChain_Private_Network](https://github.com/Proof-of-Maturity-Trustworthiness/gendchain/blob/main/GendChain_Private_Network.pptx)
